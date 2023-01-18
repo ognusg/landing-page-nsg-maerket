@@ -1,0 +1,33 @@
+.main-bg{
+    background-image: url('../img/mainbg.svg');
+    background-size: cover;
+    background-position: center center;
+}
+
+.white-bg{
+    background: white;
+}
+
+.main-content{
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 10rem 3rem;
+}
+
+.main-content h1, p{
+    color: white;
+}
+
+.section {
+    min-height: 100vh;
+
+}
+
+.menu-spacing{
+    height: 65px;
+}
+
+div.full-width{
+    width: 100%;
+    flex: 1 1 100%;
+}
